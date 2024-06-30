@@ -167,7 +167,10 @@ body[data-background-color="dark"] .demo-icon .icon-class {
   margin-bottom: 15px; }
 .form-show-notify label {
   padding-top: 0.65rem; }
-
+main{
+  background: url('../../assets/img/bg-404.jpeg') no-repeat center center;
+  background-size: cover;
+}
 .map-demo {
   height: 300px; }
 
